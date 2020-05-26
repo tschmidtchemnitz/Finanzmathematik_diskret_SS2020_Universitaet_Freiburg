@@ -1,4 +1,4 @@
-# zeitdiskrete Finanzmathematik 
+# Zeitdiskrete Finanzmathematik 
 
 Vorlesung im SS 2020, Thorsten Schmidt, Universität Freiburg.
 
